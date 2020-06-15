@@ -1,0 +1,11 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "${SID}",
+      "Action": "ec2:*",
+      "Effect": "Allow",
+      "Resource": "${arn:aws:ec2:_value}"
+    }
+  ]
+}
