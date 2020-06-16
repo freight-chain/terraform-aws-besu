@@ -1,0 +1,11 @@
+{
+  "name": "terraform-aws-besu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/freight-chain/terraform-aws-besu.git",
+  "author": "Sam <sam@freighttrust.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commitizen": "^4.1.2"
+  }
+}
